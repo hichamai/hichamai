@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hichamai
-- 👀 I’m interested in web designe
+- 👀 I’m interested in web developpement
 - 🌱 I’m currently learning html and css
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
