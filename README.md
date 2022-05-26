@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hichamai
 - 👀 I’m interested in web developpement
-- 🌱 I’m currently learning html and css
+- 🌱 I’m currently learning web developpement and software developpement 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
