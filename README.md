@@ -29,7 +29,7 @@ linkdin:https://www.linkedin.com/in/hicham-aissaoui-798a8a213/
   <a href="https://www.facebook.com/fidel.hicham.56/ ">
     <img src="https://img.shields.io/badge/facebook-blue?style=for-the-badge&logo=facebooke&logoColor=white" alt="facebook Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/hicham-aissaoui-798a8a213/ ">
+  <a href="https://www.instagram.com/hichamai92/?hl=fr">
     <img src="https://img.shields.io/badge/instagram-red?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram Badge"/>
   </a>
 </div>
