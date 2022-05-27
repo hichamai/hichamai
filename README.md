@@ -32,8 +32,18 @@ You can click the Preview link to take a look at your changes.
 </div>
 ---
 
-### 👨‍💻t: About Me :
+### 👨‍💻: About Me :
+I am a trainer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
+- 👨‍🎓: I’m studing as a  Systems and Network Administrator and contributing to frontend and backend for building web applications.
 
+- :seedling: Exploring cyber security.
+
+- :zap: In my free time, I learn more programming languages
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hicham-aissaoui-798a8a213/ )
+
+
+#########################################33
 - 👋 Hi, I’m @hichamai
 - 👀 I’m interested in web developpement
 - 🌱 I’m currently learning web developpement and software developpement 
