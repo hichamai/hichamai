@@ -35,11 +35,11 @@ You can click the Preview link to take a look at your changes.
 ### 👨‍💻: About Me :
 - - 👋 Hi, I’m @hichamai
 I am a trainer Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Morocco.
-- 👨‍🎓: I’m studing as a  Systems and Network Administrator and contributing to frontend and backend for building web applications.
+- 👨‍🎓: Senior Technician in Systems and Network Administration, combined with a Bachelor's degree in Networks and Telecommunications, passionate about designing and optimizing network infrastructures.
 
 - :seedling: Exploring  more programming languages 
 
-- :zap: In my free time, I learn web developpement and software developpement 
+- :zap: In my free time, I learn network security.
 
 
 
